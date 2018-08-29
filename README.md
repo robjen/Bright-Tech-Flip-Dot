@@ -3,6 +3,9 @@
 Reverse engineer of old Bright-Tech flip dot display protocol
 
 purchased a pair of these off ebay and have been working out the RS485 protocol by trial and error
+here you can see some of the success so far 'cracking the code' 
+
+![Flip Dot](Images/IMG_20180828_194558_sml.jpg)
 
 will document this on a wiki here on github https://github.com/robjen/Bright-Tech-Flip-Dot/wiki
 
