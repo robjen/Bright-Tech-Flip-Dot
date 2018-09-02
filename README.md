@@ -20,5 +20,7 @@ I've gone further working out more of the message format
 
 I have also won a controller on ebay so with a bit of luck that will give me more original messages and help me decode it further
 
+got the controller and 2 LED displays, starting to reverse engineer those too
+
 
 watch this space ...
